@@ -1,0 +1,16 @@
+{
+  "name": "intro-to-phaser-3-building-breakout-master",
+  "version": "1.0.0",
+  "description": "Accompanying code for the StackAbuse article [Introduction to Phaser 3: Building Breakout](https://stackabuse.com/introduction-to-phaser-3-building-breakout/).",
+  "main": "breakout.js",
+  "dependencies": {
+    "phaser": "^3.23.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
