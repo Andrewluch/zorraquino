@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"path": "../proyectosbbk/ZORRAQUINO/simple_6_07"
+		},
+		{
+			"path": "../proyectosbbk/ZORRAQUINO/w3schools_6_07"
+		},
+		{
+			"path": "../../Downloads/BreakoutDonmik-master"
+		},
+		{
+			"path": "../proyectosbbk/ZORRAQUINO/prueba2"
+		},
+		{
+			"path": "../proyectosbbk/ZORRAQUINO/prueba_3_07"
+		},
+		{
+			"path": "../proyectosbbk/ZORRAQUINO/iker_6_07"
+		},
+		{
+			"path": "../proyectosbbk/ZORRAQUINO/bolas_phaser"
+		},
+		{
+			"path": "../proyectosbbk/ZORRAQUINO/phaser3_brick_10_07"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "intro-to-phaser-3-building-breakout-master"
+	}
+}
