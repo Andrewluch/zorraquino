@@ -4,7 +4,7 @@
   "description": "Accompanying code for the StackAbuse article [Introduction to Phaser 3: Building Breakout](https://stackabuse.com/introduction-to-phaser-3-building-breakout/).",
   "main": "breakout.js",
   "dependencies": {
-    "phaser": "^3.23.0"
+    "phaser": "^3.55.2"
   },
   "devDependencies": {},
   "scripts": {
